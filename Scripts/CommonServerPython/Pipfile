@@ -12,6 +12,7 @@ pytest-mock = "*"
 [packages]
 lxml = "*"
 requests = "*"
+coverage = "*"
 
 [requires]
 python_version = "2.7"
