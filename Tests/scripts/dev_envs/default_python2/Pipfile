@@ -6,10 +6,12 @@ verify_ssl = true
 [dev-packages]
 pylint = "*"
 pytest = "*"
+pytest-cov = "*"
 pytest-mock = "*"
 requests-mock = "*"
 
 [packages]
+pytest-mock = "*"
 
 [requires]
 python_version = "2.7"
