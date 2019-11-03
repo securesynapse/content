@@ -157,3 +157,5 @@ INTEGRATION_CATEGORIES = ['Analytics & SIEM', 'Utilities', 'Messaging', 'Endpoin
                           'Vulnerability Management', 'Case Management', 'Forensics & Malware Analysis',
                           'IT Services', 'Data Enrichment & Threat Intelligence', 'Authentication', 'Database',
                           'Deception', 'Email Gateway']
+
+REPUTATION_COMMANDS = {'file', 'email', 'domain', 'url', 'ip'}
