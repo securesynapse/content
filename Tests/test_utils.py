@@ -14,6 +14,7 @@ from Tests.scripts.constants import CHECKED_TYPES_REGEXES, PACKAGE_SUPPORTING_DI
 # disable insecure warnings
 requests.packages.urllib3.disable_warnings()
 
+
 class LOG_COLORS:
     NATIVE = '\033[m'
     RED = '\033[01;31m'
